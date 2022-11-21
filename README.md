@@ -1,3 +1,5 @@
 # modern-data-stack
 
 Tarefas:
+
+- 
