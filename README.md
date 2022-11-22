@@ -22,28 +22,28 @@ Infraestrutura:
 
 - Snowflake Data Warehouse:
     
-    - Criar a Conta no SnowFlake 
-    - Verificar a existência das tabelas 
-    - Obter os links de conexão e nome da conta 
+    - Criar a Conta no SnowFlake X
+    - Verificar a existência das tabelas X
+    - Obter os links de conexão e nome da conta X
 
 
 Extração:
 
 - No Airbyte:
 
-    - Conectar com as origens baseadas nos Csvs 
-    - Criar as entidades no snowflake através do script base da documentação    
-    - Conectar o destino no snowflake 
-    - Criar as conexões do airbyte associando as origens ao destino 
-    - Testar as conexões 
+    - Conectar com as origens baseadas nos Csvs X
+    - Criar as entidades no snowflake através do script base da documentação    X
+    - Conectar o destino no snowflake X
+    - Criar as conexões do airbyte associando as origens ao destino X
+    - Testar as conexões X
 
 
 Preparação:
 
 - No Airbyte (Destination Loading Method):
 
-    - Local Staging (Ambiente de Desenvolvimento)
-    - Cloud Staging (Ambiente de Produção)
+    - Local Staging (Ambiente de Desenvolvimento) X
+    - Cloud Staging (Ambiente de Produção) X
 
 
 Transformação:
